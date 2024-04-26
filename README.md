@@ -1,9 +1,13 @@
-# leeme
+# Leeme
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a professional Readme generator.
+Leeme is a professional readme generator
+
+## Video: Example of Application User Flow
+(https://app.screencastify.com/v3/watch/2qZWRDXsEZBXTUkyefB3)
+![demo](image-1.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,16 +18,16 @@ This is a professional Readme generator.
 - [License](#license)
 
 ## Installation
-Install the neccisary packages.
+Instalation instructions here
 
 ## Usage
-Usage information here.
+Usage Information Here
 
 ## Contribution
-When contributing please specify what you have contributed.
+Contribution guidelines here
 
 ## Tests
-Test Instructions
+Run node index.js
 
 ## Questions
 If you have any questions, feel free to reach out to me via GitHub or email:
@@ -32,8 +36,3 @@ If you have any questions, feel free to reach out to me via GitHub or email:
 
 ## License
 This project is licensed under the MIT license.
-tack/github/professional-readme-guide
-
-
-## Example of application functionality
-![alt text](image.png)
